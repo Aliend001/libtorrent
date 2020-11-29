@@ -1,3 +1,4 @@
+	* validate HTTPS tracker certificates by default
 	* introduce mitigation for Server Side Request Forgery in tracker announces
 	* fix error handling for pool allocation failure
 
